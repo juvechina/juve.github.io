@@ -11,7 +11,6 @@ python:
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get -yq install apt-transport-https tor curl
-  - sudo git rm --cached public
 
 # install - install any dependencies required
 install:
