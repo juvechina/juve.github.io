@@ -40,4 +40,4 @@ deploy:
   local-dir: public
   target_branch: master  # branch contains blog content
   on:
-    branch: master  # branch contains Hugo generator code
+    branch: code  # branch contains Hugo generator code
