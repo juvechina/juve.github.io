@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://juve.github.io/categories/</loc>
-<<<<<<< HEAD
-=======
+    <loc>http://fmm.juve.cc/categories/</loc>
   </url><url>
-    <loc>http://juve.github.io/</loc>
+    <loc>http://fmm.juve.cc/</loc>
   </url><url>
-    <loc>http://juve.github.io/tags/</loc>
->>>>>>> fa33a84a963c46cdb47a554bd40040bf641e3a3c
+    <loc>http://fmm.juve.cc/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://juve.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>http://juve.github.io/tags/</loc>
-  </url>
-  
 </urlset>
