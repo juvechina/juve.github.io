@@ -4,6 +4,13 @@
   
   <url>
     <loc>http://juve.github.io/categories/</loc>
+<<<<<<< HEAD
+=======
+  </url><url>
+    <loc>http://juve.github.io/</loc>
+  </url><url>
+    <loc>http://juve.github.io/tags/</loc>
+>>>>>>> fa33a84a963c46cdb47a554bd40040bf641e3a3c
   </url>
   
   <url>

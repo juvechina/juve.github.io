@@ -5,10 +5,14 @@
     <link>http://juve.github.io/categories/</link>
     <description>Recent content in Categories on FMM 补丁大全</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <language>zh-Hans</language>
     
 	<atom:link href="http://juve.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+=======
+    <language>zh-Hans</language><atom:link href="http://juve.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> fa33a84a963c46cdb47a554bd40040bf641e3a3c
   </channel>
 </rss>
