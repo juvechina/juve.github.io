@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FMM 补丁大全</title>
-    <link>http://fmm.juve.cc/</link>
-    <description>Recent content on FMM 补丁大全</description>
+    <title>Posts on FMM 补丁大全</title>
+    <link>http://fmm.juve.cc/post/</link>
+    <description>Recent content in Posts on FMM 补丁大全</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 01 Apr 2021 18:11:35 +0800</lastBuildDate><atom:link href="http://fmm.juve.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 18:11:35 +0800</lastBuildDate><atom:link href="http://fmm.juve.cc/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fmm21补丁</title>
       <link>http://fmm.juve.cc/post/fmm21/</link>
