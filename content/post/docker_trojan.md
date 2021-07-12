@@ -1,3 +1,8 @@
+---
+title: "在N1盒子上运行docker搭建trojan server"
+date: 2021-07-11T18:11:35+08:00
+draft: false
+---
 ## 在N1盒子上运行docker搭建trojan server
 #### 1、关于N1盒子：
 ##### N1盒子配置高，价格低，目前转转上120包邮可以拿到成色不错的版本，先来看下他的硬件配置：
