@@ -28,9 +28,9 @@ JustHost | https://justhost.ru/?ref=70664 | 90元/年 | 选TTK线路直连国内
 #### 3、在N1盒子上部署docker版的trojan
 ##### 3.1、docker介绍：
 ###### docker是个好东西，在这个ARM架构的路由器上，你甚至可以运行CentOS，并安装nginx搭建下载站；今天来介绍如何在N1盒子上用docker搭建trojan的server端，首先要刷好flippy的固件，具体方法请参考表格链接，刷好以后可在左侧菜单栏看到docker按钮。
-![image](http://download.juve.cc:8888/pic/001.jpg#pic_left)
+![image](https://download.juve.cc:8888/001.jpg#pic_left)
 ##### 3.2、N1盒子上的docker配置如下图：
-![image](http://download.juve.cc:8888/pic/002.jpg#pic_left)
+![image](https://download.juve.cc:8888/002.jpg#pic_left)
 ##### 3.3、部署docker的torjan：
 ###### 支持跨平台的trojan的docker镜像有很多，今天给大家介绍的是一款比较主流的版本，teddysun大神的作品，**接下来我们将在路由器的ssh界面(黑白屏)上进行相关的操作**，首先执行下面的命令来拉取镜像
 ```
