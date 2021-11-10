@@ -59,7 +59,7 @@
       
       
     
-    <meta name="generator" content="Hugo 0.87.0" />
+    <meta name="generator" content="Hugo 0.89.2" />
 
     <link rel="canonical" href="http://fmm.juve.cc/post/docker_trojan/" />
 
@@ -254,11 +254,11 @@
 <p><img src="https://download.juve.cc:8888/pic/002.jpg#pic_left" alt="image"></p>
 <h5 id="33部署docker的torjan">3.3、部署docker的torjan：</h5>
 <h6 id="支持跨平台的trojan的docker镜像有很多今天给大家介绍的是一款比较主流的版本teddysun大神的作品接下来我们将在路由器的ssh界面黑白屏上进行相关的操作首先执行下面的命令来拉取镜像">支持跨平台的trojan的docker镜像有很多，今天给大家介绍的是一款比较主流的版本，teddysun大神的作品，<strong>接下来我们将在路由器的ssh界面(黑白屏)上进行相关的操作</strong>，首先执行下面的命令来拉取镜像</h6>
-<pre><code>docker pull teddysun/trojan-go
+<pre tabindex="0"><code>docker pull teddysun/trojan-go
 </code></pre><h6 id="然后为trojan的配置文件创建目录并添加配置文件">然后为trojan的配置文件创建目录并添加配置文件</h6>
-<pre><code>mkdir -p /etc/trojan
+<pre tabindex="0"><code>mkdir -p /etc/trojan
 </code></pre><h6 id="添加配置文件注意是json格式下面是一个简单例子其中要注意证书存放路径要与配置文件路径一致本案例中配置文件和证书都放在路由器的-etctrojan-目录下">添加配置文件，注意是json格式，下面是一个简单例子，其中要注意证书存放路径要与配置文件路径一致，本案例中配置文件和证书都放在路由器的 /etc/trojan/ 目录下：</h6>
-<pre><code>cat &gt; /etc/trojan/config.json &lt;&lt;EOF
+<pre tabindex="0"><code>cat &gt; /etc/trojan/config.json &lt;&lt;EOF
 {
     &quot;run_type&quot;: &quot;server&quot;,
     &quot;local_addr&quot;: &quot;0.0.0.0&quot;,
@@ -306,7 +306,7 @@
 }
 EOF
 </code></pre><h6 id="运行实例注意端口配置要与配置文件的端口相同">运行实例，注意端口配置要与配置文件的端口相同</h6>
-<pre><code>docker run -d -p 443:443 --name trojan --restart=always -v /etc/trojan:/etc/trojan teddysun/trojan
+<pre tabindex="0"><code>docker run -d -p 443:443 --name trojan --restart=always -v /etc/trojan:/etc/trojan teddysun/trojan
 #此处有必要说明一下，-p为端口映射，格式为8000:443，其中8000为系统端口，443为docker实例内部端口，如果你想开路由器的8000端口来代理docker实例的443端口，就写为 -p 8000:443；
 --restart=always 表示如果实例如果跑挂了可自动重启，当然如果真的有问题需要查看详细日志来定位。
 日志查看可以在路由器web界面中通过docker-容器中点trojan容器的名称，再点顶部菜单中日志按钮进行查看。
