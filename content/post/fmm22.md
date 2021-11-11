@@ -1,5 +1,5 @@
 ---
-title: "Fmm22"
+title: "Fmm22汉化补丁"
 date: 2021-11-10T19:29:17+08:00
 draft: false
 ---
@@ -13,13 +13,14 @@ draft: false
 >【注意】：新下的游戏在打补丁之前不要开游戏，否则要删除重下！
 >     更新补丁时不需要重新下载游戏，在导入新版补丁过程中选择完全覆盖即可
 ### 下载地址：
-- [教程下载，请仔细阅读【高速下载】](https://download.juve.cc:8888/fmm_jiaocheng.doc)
+- [iOS教程下载，请仔细阅读【高速下载】](https://download.juve.cc:8888/fmm_jiaocheng.doc)
+- 安卓版本的教程还在制作中，请稍后。
 - [完美补丁，含全部头像队徽，汉化中文名4.9G【高速下载】](https://download.juve.cc:8888/fmm22_logo_chinese.rar)
 - [标准头像大包3.4G【高速下载】](https://download.juve.cc:8888/pa90.zip)
 - [标准头像中包2.7G【高速下载】](https://download.juve.cc:8888/pa100.zip)
 - [标准头像小包1.3G【高速下载】](https://download.juve.cc:8888/pa120.zip)
 - [汉化补丁-中文名【高速下载】](https://download.juve.cc:8888/22v1_chinese.rar)
 - [汉化补丁-英文名【高速下载】](https://download.juve.cc:8888/22v1_eng.rar)
-- 备用链接: [https://pan.baidu.com/s/1ZE_0m1jVHTQ8m6uCmnRdlQ](https://pan.baidu.com/s/1ZE_0m1jVHTQ8m6uCmnRdlQ)
-- 提取码: 8c7p
-#### 【广告】：只要9块9！内购全开的IOS版游戏，闲鱼搜索 juvechina 或微信 juvechina5，永久更新！
+- 备用链接: [https://pan.baidu.com/s/1jk3Fmqx7uJyFtf5tnHsTnA](https://pan.baidu.com/s/1jk3Fmqx7uJyFtf5tnHsTnA)
+- 提取码: l4zd
+#### 【广告】：只要9块9！内购全开的 IOS/安卓 正版足球经理游戏，闲鱼搜索 juvechina 或微信 juvechina5，永久更新！
