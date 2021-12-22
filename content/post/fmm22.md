@@ -18,6 +18,7 @@ draft: false
 - [标准头像小包1.3G【高速下载】](https://download.juve.cc:8888/pa120.zip)
 - [汉化补丁-中文名【高速下载】](https://download.juve.cc:8888/22v1_chinese.rar)
 - [汉化补丁-英文名【高速下载】](https://download.juve.cc:8888/22v1_eng.rar)
+- [汉化布丁-旧档还魂专用](https://download.juve.cc:8888/fmm22_chinese_v2.zip)
 - 备用链接: [https://pan.baidu.com/s/1jk3Fmqx7uJyFtf5tnHsTnA](https://pan.baidu.com/s/1jk3Fmqx7uJyFtf5tnHsTnA)
 - 提取码: l4zd
 #### 【广告】：只要9块9！内购全开的 IOS/安卓 正版足球经理游戏，闲鱼搜索 juvechina 或微信 juvechina5，永久更新！
