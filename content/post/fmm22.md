@@ -13,6 +13,7 @@ draft: false
 - [iOS教程下载，请仔细阅读【高速下载】](https://download.juve.cc:8888/fmm_jiaocheng.doc)
 - [安卓教程下载，请仔细阅读【高速下载】](https://download.juve.cc:8888/fmm_jiaocheng_android.doc)
 - [完美补丁，含全部头像队徽，汉化英文名 4.9G【高速下载】](https://download.juve.cc:8888/fmm22_logo_chinese.rar)
+- [最新汉化补丁冬窗升级版，修复假名问题](https://download.juve.cc:8888/chinese22v3.zip)
 - [标准头像大包3.4G【高速下载】](https://download.juve.cc:8888/pa90.zip)
 - [标准头像中包2.7G【高速下载】](https://download.juve.cc:8888/pa100.zip)
 - [标准头像小包1.3G【高速下载】](https://download.juve.cc:8888/pa120.zip)
